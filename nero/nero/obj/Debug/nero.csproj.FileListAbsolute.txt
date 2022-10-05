@@ -1,0 +1,6 @@
+C:\Users\Adminkcpt\Desktop\nero\nero\bin\Debug\nero.exe.config
+C:\Users\Adminkcpt\Desktop\nero\nero\bin\Debug\nero.exe
+C:\Users\Adminkcpt\Desktop\nero\nero\bin\Debug\nero.pdb
+C:\Users\Adminkcpt\Desktop\nero\nero\obj\Debug\nero.csprojAssemblyReference.cache
+C:\Users\Adminkcpt\Desktop\nero\nero\obj\Debug\nero.exe
+C:\Users\Adminkcpt\Desktop\nero\nero\obj\Debug\nero.pdb
